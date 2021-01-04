@@ -2,7 +2,7 @@ import random
 
 
 def game():
-    play = True  #Code added by Prof Ferguson
+    play = True 
     while(play):
         #Below, we introduct the opeining question which makes the game more personal.
         print("Hey, What is your name?")
